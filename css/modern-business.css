@@ -1,0 +1,120 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-bottom: 0px;
+}
+
+.carousel-item {
+  height: 100vh;
+  min-height: 400px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.carousel-caption h3{ 
+margin-top: -480px !important;
+font-size: 70px;
+}
+
+.tagline{
+  font-size: 30px;
+}
+
+.dropdown-item{
+width: 320px;
+font-size: 24px;
+}
+
+.dropdown-item2{
+  font-size: 18px;
+}
+
+.card-img-top{
+max-height: 200px;
+
+}
+
+.card-title{
+  margin: auto !important;
+  text-align: center !important;
+  
+}
+
+.card-body{
+  background: #696969;
+}
+
+
+.categories{
+color: #ffffff;
+}
+.categories:hover{
+  color: #ff791a;
+  text-decoration: none;;
+  }
+.contact{
+  float: right;
+  font-size: 20px;
+}
+
+.navbar{
+  height: 100px;
+}
+
+#logo{
+  height: 100px;
+  padding-right: 15px;;
+}
+
+#logo-header{
+  height: 50px;
+  padding-right: 15px;
+}
+
+.navbar-brand{
+  font-size: 28px;
+}
+
+#navbarDropdownPortfolio{
+  font-size: 20px;
+}
+
+.map-container-2{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+  }
+  .map-container-2 iframe{
+  left:0;
+  top:0;
+  height:400px;
+  width:900px;
+  position:absolute;
+  }
+
+  .small-labels{
+font-size: 15px;
+padding-top: 10px;
+word-spacing: 1px;
+}
+
+#otherresources{
+  text-align: center;
+  margin:auto;
+  padding-bottom: 25px;
+}
+
+#page-title{
+  padding-top: 20px;
+}
